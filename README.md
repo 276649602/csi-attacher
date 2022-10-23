@@ -1,2 +1,2 @@
 # csi-attacher
-csi-attacher:v3.4.0
+csi-attacher:v3.5.0
